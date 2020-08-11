@@ -1,4 +1,4 @@
-# respiratory-sound
+# Respiratory Sound 
 
 Download dataset from Kaggle:
 https://www.kaggle.com/vbookshelf/respiratory-sound-database/
